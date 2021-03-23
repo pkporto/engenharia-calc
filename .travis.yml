@@ -7,4 +7,6 @@ script:
   - npm run test
 
 notification:
-  email: patrickporto.dev@gmail.com
+  email: 
+    - patrickporto.dev@gmail.com
+    - ufrapl21@gmail.com
